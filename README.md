@@ -1,33 +1,139 @@
-# Ultimate Commander
+<div align="center">
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+# ⚔️ Ultimate Commander
 
-This project was generated with a template including simple application launchers and an empty `ApplicationListener` implementation.
+**A turn-based strategy game where every decision matters.**
 
-## Platforms
+Plan your moves, outmaneuver your opponent, and adapt your strategy to control the battlefield.
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
+![GitHub stars](https://img.shields.io/github/stars/FlowerYes/Ultimate-Commander?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/FlowerYes/Ultimate-Commander?style=for-the-badge)
+![License](https://img.shields.io/github/license/FlowerYes/Ultimate-Commander?style=for-the-badge)
 
-## Gradle
+</div>
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+---
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
+## Overview
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+Ultimate Commander is a strategy game centered around tactical decision making rather than chance. Every turn presents meaningful choices that influence the outcome of the battle. Success comes from planning ahead, positioning intelligently, and adapting to your opponent's strategy.
+
+Whether you're optimizing resource usage, controlling territory, or predicting enemy actions, every move counts.
+
+---
+
+## Features
+
+- 🎮 Turn based strategic gameplay
+- 🧠 Decision making over mechanical execution
+- ⚡ Fast game loop that rewards planning
+- 🗺️ Tactical battlefield interactions
+- 🏆 Competitive and replayable matches
+- 🛠️ Clean, modular codebase
+
+---
+
+## Gameplay
+
+The objective is simple.
+
+> Become the ultimate commander.
+
+Players take turns making strategic decisions while reacting to an evolving battlefield. Good positioning, efficient resource management, and long term planning often matter more than short term gains.
+
+*(Replace this section with your exact game rules if desired.)*
+
+---
+
+## Screenshots
+
+<p align="center">
+<img src="docs/screenshot1.png" width="45%">
+<img src="docs/screenshot2.png" width="45%">
+</p>
+
+Or include a gameplay GIF:
+
+<p align="center">
+<img src="docs/gameplay.gif" width="85%">
+</p>
+
+---
+
+## Installation
+
+Clone the repository.
+
+```bash
+git clone https://github.com/FlowerYes/Ultimate-Commander.git
+cd Ultimate-Commander
+```
+
+Install dependencies.
+
+```bash
+# Add installation instructions here
+```
+
+Run the game.
+
+```bash
+# Add launch command here
+```
+
+---
+
+## Project Structure
+
+```
+Ultimate-Commander/
+├── assets/
+├── src/
+├── docs/
+├── README.md
+└── ...
+```
+
+---
+
+## Tech Stack
+
+- Language: *(fill in)*
+- Framework: *(fill in)*
+- Graphics: *(fill in if applicable)*
+- Build System: *(fill in)*
+
+---
+
+## Future Plans
+
+- Additional commanders
+- New maps
+- Improved AI
+- Multiplayer
+- Ranked mode
+- More unit types
+
+---
+
+## Contributing
+
+Contributions are always welcome.
+
+If you have ideas, discover bugs, or want to improve gameplay, feel free to open an issue or submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License unless stated otherwise.
+
+---
+
+<div align="center">
+
+**Victory belongs to the commander who thinks one move ahead.**
+
+⭐ If you enjoyed the project, consider leaving a star.
+
+</div>

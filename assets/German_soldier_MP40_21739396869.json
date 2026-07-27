@@ -1,0 +1,145 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/German_soldier_MP40_2.png",
+    "format": "json",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 192,
+      "height": 192,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 255.91,
+      "y": 255.91
+    },
+    "printSize": {
+      "x": 0.750264,
+      "y": 0.750264
+    },
+    "units": "PixelsPerCentimeter",
+    "type": "PaletteAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 36864,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 159.86,
+        "standardDeviation": 103.422,
+        "kurtosis": -1.60434,
+        "skewness": -0.402403,
+        "entropy": 0.717517
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 140.449,
+        "standardDeviation": 126.842,
+        "kurtosis": -1.95837,
+        "skewness": 0.204172,
+        "entropy": 0.992546
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 177.516,
+        "standardDeviation": 94.7201,
+        "kurtosis": -1.46285,
+        "skewness": -0.548918,
+        "entropy": 0.63167
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 175.66,
+        "standardDeviation": 94.4576,
+        "kurtosis": -1.35114,
+        "skewness": -0.550473,
+        "entropy": 0.622925
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 171.715,
+        "standardDeviation": 97.668,
+        "kurtosis": -1.44718,
+        "skewness": -0.491294,
+        "entropy": 0.622925
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 192,
+      "height": 192,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-02-12T21:47:46+00:00",
+      "date:modify": "2025-02-12T21:47:46+00:00",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "192, 192",
+      "png:pHYs": "x_res=25591, y_res=25591, units=1",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "signature": "6e471c67b89e997e9dce1401c7dbed8092533ebc7473a505bd069fc4c04fcade"
+    },
+    "tainted": false,
+    "filesize": "2684B",
+    "numberPixels": "36864",
+    "pixelsPerSecond": "23.4697MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.001",
+    "version": "ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org"
+  }
+}
+]
